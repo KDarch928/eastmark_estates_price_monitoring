@@ -1,0 +1,24 @@
+{
+  "name": "eastmark_price_monitoring",
+  "version": "1.0.0",
+  "description": "monitoring price changes on the crestone home in eastmark estates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDarch928/eastmark_estates_price_monitoring.git"
+  },
+  "author": "Kayle Drucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDarch928/eastmark_estates_price_monitoring/issues"
+  },
+  "homepage": "https://github.com/KDarch928/eastmark_estates_price_monitoring#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
