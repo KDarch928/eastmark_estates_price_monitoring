@@ -18,9 +18,12 @@
   "homepage": "https://github.com/KDarch928/eastmark_estates_price_monitoring#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "puppeteer": "^2.1.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5"
+    "request-promise": "^4.2.5",
+    "textbelt": "0.0.4",
+    "twilio": "^3.40.0"
   }
 }
