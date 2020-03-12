@@ -56,6 +56,8 @@ function checkPrice() {
 
           console.log(mess); // console log the message
           sendMessage(process.env.KAYLE_NUM, mess); //send the text message
+          sendMessage(process.env.LEONARD_NUM, mess);
+          sendMessage(process.env.IVONNE_NUM, mess);
 
           data.curPrice = webPrice.toString(); //convert the number to a string
 
