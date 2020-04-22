@@ -24,6 +24,6 @@
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "textbelt": "0.0.4",
-    "twilio": "^3.40.0"
+    "twilio": "^3.42.2"
   }
 }
